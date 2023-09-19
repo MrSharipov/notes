@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "589cc172e97b31b8",
+        "id": "e08f6b54bedab724",
         "type": "tabs",
         "children": [
           {
-            "id": "bfad05aa3883ddb6",
+            "id": "69e0b7fcb042a0d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "node_js/learn_node_js.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "node_js/learn_node_js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "node_js/learn_node_js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "info/MD cheat sheet.pdf"
+                "file": "node_js/learn_node_js.md"
               }
             }
           }
@@ -142,10 +148,25 @@
   },
   "active": "6b674e626fbf7578",
   "lastOpenFiles": [
-    "gitignore",
-    "info/MD cheat sheet.pdf",
-    "info/Dark.pdf",
-    "info/README.md",
-    "info"
+    "next_js/learn_next_js.md",
+    "node_js/learn_node_js.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "next_js/projects",
+    "node_js/projects",
+    "next_js",
+    "node_js",
+    "extra/README.md",
+    "extra/MD cheat sheet.pdf",
+    "extra",
+    "1. Programming/info/README.md",
+    "1. Programming/info/MD cheat sheet.pdf",
+    "1. Programming/info",
+    "1. Programming",
+    "1.Programming/info/README.md",
+    "1.Programming/info/MD cheat sheet.pdf",
+    "programming/info/README.md",
+    "Programming/info/README.md",
+    "Dark.pdf.md"
   ]
 }
