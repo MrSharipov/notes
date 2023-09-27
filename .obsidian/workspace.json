@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "next_js/README.md",
+                "file": "node_js/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8323c7bc8db0ac57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "node_js/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "next_js/README.md",
+                "file": "node_js/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "next_js/README.md",
+                "file": "node_js/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "next_js/README.md"
+                "file": "node_js/README.md"
               }
             }
           }
@@ -146,25 +159,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b674e626fbf7578",
+  "active": "8323c7bc8db0ac57",
   "lastOpenFiles": [
-    "node_js/README.md",
     "next_js/README.md",
-    "Untitled.md",
+    "extra/README.md",
+    "extra/MD cheat sheet.pdf",
+    "node_js/README.md",
+    "node_js/projects/test.md",
+    "project/test.md",
+    "project",
     "Untitled.canvas",
     "next_js/projects",
     "node_js/projects",
     "next_js",
     "node_js",
-    "extra/README.md",
-    "extra/MD cheat sheet.pdf",
     "extra",
     "1. Programming/info/README.md",
     "1. Programming/info/MD cheat sheet.pdf",
     "1. Programming/info",
     "1. Programming",
     "1.Programming/info/README.md",
-    "1.Programming/info/MD cheat sheet.pdf",
     "programming/info/README.md",
     "Programming/info/README.md",
     "Dark.pdf.md"
